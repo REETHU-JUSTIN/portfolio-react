@@ -1,0 +1,4 @@
+Place your resume PDF in this folder, named exactly: resume.pdf
+
+Anything in /public is served at the site root, so the file becomes
+available at /resume.pdf — which is what the Résumé buttons link to.
