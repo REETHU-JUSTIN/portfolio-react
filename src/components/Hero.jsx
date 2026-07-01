@@ -44,15 +44,7 @@ export default function Hero() {
             >
               View projects
             </a>
-            <a
-              href={LINKS.resume}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="rounded-[9px] border border-border bg-transparent px-5 py-3 font-mono text-[13.5px] font-medium text-text no-underline"
-            >
-              Download résumé ↓
-            </a>
-            <a
+<a
               href={LINKS.github}
               target="_blank"
               rel="noopener noreferrer"

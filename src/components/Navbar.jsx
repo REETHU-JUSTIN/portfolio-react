@@ -56,15 +56,7 @@ export default function Navbar() {
           >
             {theme === 'dark' ? 'Light' : 'Dark'}
           </button>
-          <a
-            href={LINKS.resume}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hidden rounded-lg bg-accent px-3.5 py-2 font-mono text-[12.5px] font-medium text-on-accent no-underline sm:inline-block"
-          >
-            Résumé ↓
-          </a>
-          <button
+<button
             type="button"
             onClick={() => setOpen((o) => !o)}
             aria-label="Menu"

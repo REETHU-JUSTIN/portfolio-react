@@ -10,8 +10,6 @@ export const LINKS = {
   email: 'reethujustin@email.com',
   phone: '+91 75108 01892',
   location: 'Kochi, India',
-  // Drop your PDF at public/resume.pdf — this path then works as-is.
-  resume: '/resume.pdf',
 };
 
 export const NAV_IDS = ['about', 'skills', 'experience', 'projects', 'contact'];
