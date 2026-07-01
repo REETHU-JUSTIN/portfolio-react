@@ -10,6 +10,7 @@ export const LINKS = {
   email: 'reethujustin@email.com',
   phone: '+91 75108 01892',
   location: 'Kochi, India',
+  resume: '/resume.pdf',
 };
 
 export const NAV_IDS = ['about', 'skills', 'experience', 'projects', 'contact'];
